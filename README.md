@@ -94,3 +94,6 @@ python manage.py migrate
 ## Run the server:
 
 python manage.py runserver
+
+Author: Kwabena Aboagye-Heming
+GitHub: https://github.com/Hemnegy/Capstone_Project
